@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button"
 import { Clock, Sparkles } from "lucide-react"
 
 const eventTimes = ["12:00", "14:00", "16:00", "18:00", "20:00"]
@@ -18,8 +17,8 @@ export function EventsSection() {
             Każde spotkanie to godzina magii, w której dzieci przenoszą się do świata opowieści, muzyki i ruchu.
           </p>
 
-          {/* Event Card */}
-          <div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
+          {/* Start*/}
+<div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
             <h3 className="text-2xl font-semibold text-foreground mb-4">
               Magiczna Opowieść
             </h3>
@@ -27,12 +26,17 @@ export function EventsSection() {
               Przywitaj się ze światem pełnym niesamowitych postaci i przygód. Godzina pełna emocji, muzyki i magicznych momentów, które będą żyć w pamięci Twojego dziecka.
             </p>
             <div className="flex justify-center">
-              <Button className="px-8 py-4 text-lg rounded-full bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90">
+              <a
+                href="https://bajkowafantazja.tixx.pl"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-4 text-lg rounded-full bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90 inline-flex items-center justify-center font-medium transition-colors"
+              >
                 Kup bilet
-              </Button>
+              </a>
             </div>
           </div>
-
+          {/* Koniec*/}
           <div className="flex flex-wrap justify-center gap-6 text-muted-foreground">
             <div className="flex items-center gap-2">
               <Clock className="w-5 h-5" />

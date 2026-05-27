@@ -31,8 +31,10 @@ export function HeroSection() {
           </div>
 
           <div className="mt-28 flex justify-center">
-            <a
-              href="#wydarzenia"
+           <a
+              href="https://bajkowafantazja.tixx.pl"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-3 justify-center rounded-full px-14 py-3.5 text-lg font-semibold text-white bg-[#7ba3c4] shadow-xl shadow-[#7ba3c4]/30 transition-all duration-300 hover:bg-[#6a93b5] hover:scale-105 hover:-translate-y-1 opacity-95"   >
               <span>Kup bilet</span>
 
