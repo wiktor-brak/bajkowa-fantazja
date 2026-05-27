@@ -5,8 +5,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "kontakt@bajkowafantazja.pl",
-    href: "mailto:kontakt@bajkowafantazja.pl",
+    value: "bajkowafantazja@gmail.com",
+    href: "mailto:bajkowafantazja@gmail.com",
   },
   {
     icon: Phone,
