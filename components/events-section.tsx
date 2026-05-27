@@ -37,6 +37,27 @@ export function EventsSection() {
             </div>
           </div>
           {/* Koniec*/}
+
+                    {/* Start*/}
+<div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
+            <h3 className="text-2xl font-semibold text-foreground mb-4">
+              Calineczka
+            </h3>
+            <p className="text-muted-foreground mb-8 leading-relaxed">
+             bajka dla dzieci wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+            </p>
+            <div className="flex justify-center">
+              <a
+                href="https://bajkowafantazja.tixx.pl"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-4 text-lg rounded-full bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90 inline-flex items-center justify-center font-medium transition-colors"
+              >
+                Kup bilet
+              </a>
+            </div>
+          </div>
+          {/* Koniec*/}
           <div className="flex flex-wrap justify-center gap-6 text-muted-foreground">
             <div className="flex items-center gap-2">
               <Clock className="w-5 h-5" />
