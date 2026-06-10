@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Instagram } from "lucide-react"
+import { Mail, Phone, MapPin, Instagram, Facebook } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const contactInfo = [
@@ -9,10 +9,10 @@ const contactInfo = [
     href: "mailto:bajkowafantazja@gmail.com",
   },
   {
-    icon: Phone,
-    label: "Telefon",
-    value: "+48 123 456 789",
-    href: "tel:+48123456789",
+    icon: Facebook,
+    label: "Facebook",
+    value: "Bajkowa Fantazja",
+    href: "https://facebook.com/bajkowafantazja",
   },
   {
     icon: Instagram,
@@ -53,6 +53,8 @@ export function ContactSection() {
                 {info.href ? (
                   <a
                     href={info.href}
+                    target={info.href?.startsWith("http") ? "_blank" : undefined}
+                    rel={info.href?.startsWith("http") ? "noopener noreferrer" : undefined}
                     className="text-foreground font-medium hover:text-primary transition-colors"
                   >
                     {info.value}

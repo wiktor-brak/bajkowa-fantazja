@@ -12,7 +12,7 @@ const offers = [
   {
     id: "maluszki",
     icon: Baby,
-    title: "Maluszki",
+    title: "Maluszki (wkrótce...)",
     age: "0–3 lata",
     description:
       "Delikatne, spokojne spotkania pełne dźwięków, rytmu i prostych opowieści. Bezpieczna przestrzeń dla najmłodszych dzieci i ich rodziców.",

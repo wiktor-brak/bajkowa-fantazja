@@ -24,7 +24,13 @@ export function AboutSection() {
                 </h2>
               </div>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Jesteśmy rodziną, którą łączy miłość do dzieci, muzyki i opowieści. Tworzymy Bajkową Fantazję, aby dawać dzieciom przestrzeń do przeżywania, a rodzicom – chwilę bliskości.
+                Czy pamiętasz swoją ulubioną bajkę z dzieciństwa? Tę historię, której chciało się słuchać wciąż od nowa, która pobudzała wyobraźnię i na długo pozostawała w sercu?
+              </p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                Wierzymy, że takie opowieści mają niezwykłą moc - łączą pokolenia, rozwijają wrażliwość i tworzą piękne wspomnienia.
+              </p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                Tworzymy wyjątkowe spotkania dla dzieci, podczas których bajkowe historie ożywają dzięki muzyce i sztuce opowiadania. Łącząc doświadczenie artystyczne z wieloletnią pracą z dziećmi, tworzymy atmosferę pełną magii, radości i wyobraźni.
               </p>
 
             </div>
