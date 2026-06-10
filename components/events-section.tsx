@@ -14,16 +14,14 @@ export function EventsSection() {
             Nasze wydarzenia
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-12 max-w-2xl mx-auto">
-            Każde spotkanie to godzina magii, w której dzieci przenoszą się do świata opowieści, muzyki i ruchu.
-          </p>
+Każde spotkanie to 45 minut pełnych magii i wyobraźni, podczas których dzieci odkrywają świat opowieści, muzyki i ruchu.          </p>
 
           {/* Start*/}
 <div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
             <h3 className="text-2xl font-semibold text-foreground mb-4">
-              Magiczna Opowieść
-            </h3>
+Calineczka            </h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              Przywitaj się ze światem pełnym niesamowitych postaci i przygód. Godzina pełna emocji, muzyki i magicznych momentów, które będą żyć w pamięci Twojego dziecka.
+Zapraszamy na wyjątkowe spotkanie z historią Calineczki — klasyczną baśnią opowiadaną przy dźwiękach muzyki na żywo, która przeniesie dzieci i rodziców do świata wyobraźni, emocji i niezwykłych przygód. To kameralne wydarzenie, podczas którego dzieci nie tylko słuchają historii, ale rozwijają wyobraźnię, wrażliwość, koncentrację i uważność poprzez kontakt z żywym słowem i muzyką. To piękny, spokojny czas wspólnego przeżywania opowieści, który wspiera naturalną ciekawość dziecka i buduje wartościowe rodzinne wspomnienia.
             </p>
             <div className="flex justify-center">
               <a
@@ -42,10 +40,10 @@ export function EventsSection() {
           <div className="flex flex-wrap justify-center gap-6 text-muted-foreground">
             <div className="flex items-center gap-2">
               <Clock className="w-5 h-5" />
-              <span>Czas trwania: 60 minut</span>
+              <span>Czas trwania: 45 minut</span>
             </div>
             <div className="flex items-center gap-2">
-              <span className="font-semibold text-foreground">Cena: 60 zł</span>
+              <span className="font-semibold text-foreground">Cena: 46 zł</span>
             </div>
           </div>
         </div>
