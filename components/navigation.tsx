@@ -60,8 +60,10 @@ export function Navigation() {
                 {item.label}
               </Link>
             ))}
-            <Button className="rounded-full px-6  bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90">
-              Kup bilet
+            <Button asChild className="rounded-full px-6  bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90">
+              <a href="https://bajkowafantazja.tixx.pl" target="_blank" rel="noopener noreferrer">
+                Kup bilet
+              </a>
             </Button>
 
           </div>
@@ -90,8 +92,10 @@ export function Navigation() {
                   {item.label}
                 </Link>
               ))}
-              <Button className="rounded-full px-6  bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90">
-                Kup bilet
+              <Button asChild className="rounded-full px-6  bg-[#7ba3c4] hover:bg-[#6a93b5] text-white opacity-90">
+                <a href="https://bajkowafantazja.tixx.pl" target="_blank" rel="noopener noreferrer">
+                  Kup bilet
+                </a>
               </Button>
             </div>
           </div>
