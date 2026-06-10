@@ -19,7 +19,7 @@ Każde spotkanie to 45 minut pełnych magii i wyobraźni, podczas których dziec
           {/* Start*/}
 <div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
             <h3 className="text-2xl font-semibold text-foreground mb-4">
-Calineczka            </h3>
+Opowieść z Krainy Elfów - Calineczka           </h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
 Zapraszamy na wyjątkowe spotkanie z historią Calineczki — klasyczną baśnią opowiadaną przy dźwiękach muzyki na żywo, która przeniesie dzieci i rodziców do świata wyobraźni, emocji i niezwykłych przygód. To kameralne wydarzenie, podczas którego dzieci nie tylko słuchają historii, ale rozwijają wyobraźnię, wrażliwość, koncentrację i uważność poprzez kontakt z żywym słowem i muzyką. To piękny, spokojny czas wspólnego przeżywania opowieści, który wspiera naturalną ciekawość dziecka i buduje wartościowe rodzinne wspomnienia.
             </p>
