@@ -21,7 +21,7 @@ Każde spotkanie to 45 minut pełnych magii i wyobraźni, podczas których dziec
             <h3 className="text-2xl font-semibold text-foreground mb-4">
 Tajemnica Świątecznej Poczty         </h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-W świątecznej poczcie Świętego Mikołaja elfka Migotka odnajduje tajemniczy list. Nie ma w nim ani jednego słowa, rysunku ani podpisu. Dlaczego ktoś wysłał pustą wiadomość? Jakie życzenie może się za nią kryć?
+W świątecznej poczcie Świętego Mikołaja Elfka Migotka odnajduje tajemniczy list. Nie ma w nim ani jednego słowa, rysunku ani podpisu. Dlaczego ktoś wysłał pustą wiadomość? Jakie życzenie może się za nią kryć?
 
 Zaintrygowana Migotka postanawia rozwikłać tę zagadkę. Wkrótce odkrywa, że niezwykły list skrywa wzruszającą historię o dziecięcych marzeniach, tęsknocie i potrzebie bliskości.
 
