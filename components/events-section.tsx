@@ -19,10 +19,13 @@ Każde spotkanie to 45 minut pełnych magii i wyobraźni, podczas których dziec
           {/* Start*/}
 <div className="max-w-2xl mx-auto bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow mb-12">
             <h3 className="text-2xl font-semibold text-foreground mb-4">
-Opowieść z Krainy Elfów - Calineczka           </h3>
+Tajemnica Świątecznej Poczty         </h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-Zapraszamy na wyjątkowe spotkanie z historią Calineczki - klasyczną baśnią opowiadaną przy dźwiękach muzyki na żywo, która przeniesie dzieci i rodziców do świata wyobraźni, emocji i niezwykłych przygód. To kameralne wydarzenie, podczas którego dzieci nie tylko słuchają historii, ale rozwijają wyobraźnię, wrażliwość, koncentrację i uważność poprzez kontakt z żywym słowem i muzyką. To piękny, spokojny czas wspólnego przeżywania opowieści, który wspiera naturalną ciekawość dziecka i buduje wartościowe rodzinne wspomnienia.
-            </p>
+W świątecznej poczcie Świętego Mikołaja elfka Migotka odnajduje tajemniczy list. Nie ma w nim ani jednego słowa, rysunku ani podpisu. Dlaczego ktoś wysłał pustą wiadomość? Jakie życzenie może się za nią kryć?
+
+Zaintrygowana Migotka postanawia rozwikłać tę zagadkę. Wkrótce odkrywa, że niezwykły list skrywa wzruszającą historię o dziecięcych marzeniach, tęsknocie i potrzebie bliskości.
+
+To opowieść, która przypomina, że nie wszystkie życzenia można zapisać na papierze, a czasami najpiękniejszym prezentem jest po prostu obecność drugiego człowieka.            </p>
             <div className="flex justify-center">
               <a
                 href="https://bajkowafantazja.tixx.pl"
